@@ -27,7 +27,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="nVB-y4-mCB"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Patch"/>
                                 <connections>
                                     <action selector="loadScript:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jzM-zN-yNx"/>
                                 </connections>
